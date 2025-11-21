@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Mahmoud</h1>
-<h3 align="center">I am a Computer Science student and Data Engineer intern with hands-on experience in building data pipelines, processing large-scale datasets, and managing databases. Proficient in Python, C#, Apache Spark, Kafka, Airflow, and SSIS, with foundational knowledge in cybersecurity and networking. Passionate about transforming raw data into intelligent, scalable systems that drive real-world decisions.</h3>
+<h3 align="center">Results-driven Data Engineer with hands-on experience building and automating data pipelines, ingesting large datasets, and developing efficient ETL workflows. Strong in transforming raw data into clean, analytics-ready structures and turning complex data into meaningful insights. Improved pipeline speed, reliability, and data quality across projects through optimized ingestion, smarter transformations, and automation-focused engineering.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
